@@ -1,0 +1,45 @@
+﻿@model IEnumerable<NOC_DKRKM.Models.TestResult>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Тема
+        </th>
+        <th>
+            Дата складання
+        </th>
+        <th>
+           Бали
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Topic.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mark)
+            </td>
+            <td>
+                @Html.ActionLink("Детальніше", "Details", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+

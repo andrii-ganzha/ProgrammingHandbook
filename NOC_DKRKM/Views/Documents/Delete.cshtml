@@ -1,0 +1,42 @@
+﻿@model NOC_DKRKM.Models.Document
+
+@{
+    ViewBag.Title = "Видалення матеріалу";
+}
+
+<h2>Видалення матеріалу</h2>
+
+<h3>Ви впевнені, що бажаєте видалити матеріал?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Topic.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Topic.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        
+       
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Видалити" class="btn btn-default" /> |
+            @Html.ActionLink("Повернутися до списку матеріалів", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,564 @@
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\csc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\vbc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\NOC_DKRKM.dll.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Antlr3.Runtime.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\EntityFramework.SqlServer.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Newtonsoft.Json.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Net.Http.Formatting.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Helpers.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Http.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Http.WebHost.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Optimization.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.WebPages.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\WebGrease.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Helpers.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Optimization.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.WebPages.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Antlr3.Runtime.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Newtonsoft.Json.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Net.Http.Formatting.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Http.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\System.Web.Http.WebHost.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\EntityFramework.SqlServer.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.Http.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\RusticiSoftware.HostedEngine.Client.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ScormExtensions.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\TinCan.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\bin\ScormExtensions.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.InitialCreate.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.csproj.GenerateResource.Cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrateDB.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrateDB1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB4.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB5.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB6.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB7.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB8.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB9.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB10.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB11.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB12.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB13.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB14.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB15.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB16.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration4.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration5.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCource.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MyCources.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MyCources1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.News.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCource1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.InitialCreate.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrateDB.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrateDB1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB4.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB5.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB6.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB7.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB8.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB9.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB10.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB11.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB12.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB13.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB14.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB15.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB16.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration4.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration5.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCource.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MyCources.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MyCources1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.News.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCource1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.csproj.GenerateResource.Cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\csc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\vbc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\NOC_DKRKM.dll.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Antlr3.Runtime.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\EntityFramework.SqlServer.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Newtonsoft.Json.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\RusticiSoftware.HostedEngine.Client.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ScormExtensions.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Net.Http.Formatting.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Helpers.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Http.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Http.WebHost.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Optimization.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.WebPages.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\TinCan.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\WebGrease.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Newtonsoft.Json.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ScormExtensions.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Helpers.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Optimization.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.WebPages.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Antlr3.Runtime.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Net.Http.Formatting.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Http.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\System.Web.Http.WebHost.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\EntityFramework.SqlServer.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.Http.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Drop.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResult.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Question_CODE.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Question_Picture.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB17.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\PagedList.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\PagedList.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\PagedList.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (8)\NOC_DKRKM\bin\PagedList.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\csc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\vbc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\NOC_DKRKM.dll.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Antlr3.Runtime.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\EntityFramework.SqlServer.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Newtonsoft.Json.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\PagedList.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\PagedList.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\RusticiSoftware.HostedEngine.Client.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ScormExtensions.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Net.Http.Formatting.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Helpers.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Http.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Http.WebHost.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Optimization.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.WebPages.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\TinCan.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\WebGrease.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Newtonsoft.Json.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\PagedList.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\PagedList.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ScormExtensions.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Helpers.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Optimization.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.WebPages.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Antlr3.Runtime.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Net.Http.Formatting.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Http.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\System.Web.Http.WebHost.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\EntityFramework.SqlServer.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.Http.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.InitialCreate.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrateDB.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrateDB1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB4.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB5.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB6.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB7.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB8.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB9.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB10.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB11.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB12.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB13.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB14.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB15.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB16.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.dbMigration2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration4.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Migration5.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResults3.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCources2.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCource.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MyCources.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MyCources1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.News.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.GroupInCource1.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Drop.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.TestResult.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Question_CODE.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.Question_Picture.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.Migrations.MigrationDB17.resources
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.csproj.GenerateResource.Cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\csc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\vbc.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\NOC_DKRKM.dll.config
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\NOC_DKRKM.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\NOC_DKRKM.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Antlr3.Runtime.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\DocumentFormat.OpenXml.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\EntityFramework.SqlServer.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Newtonsoft.Json.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Owin.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\PagedList.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\PagedList.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\RusticiSoftware.HostedEngine.Client.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ScormExtensions.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Net.Http.Formatting.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Helpers.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Http.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Http.WebHost.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Mvc.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Optimization.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.WebPages.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\TinCan.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\WebGrease.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\DocumentFormat.OpenXml.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Newtonsoft.Json.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\PagedList.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\PagedList.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ScormExtensions.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Helpers.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Mvc.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Optimization.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.WebPages.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Antlr3.Runtime.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Net.Http.Formatting.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Http.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\System.Web.Http.WebHost.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\EntityFramework.SqlServer.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.Http.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\obj\Debug\NOC_DKRKM.csproj.ResolveComReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\NetOffice.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\OfficeApi.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\VBIDEApi.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\WordApi.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\stdole.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\NetOffice.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\OfficeApi.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\VBIDEApi.xml
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\NOC_DKRKM\bin\WordApi.xml

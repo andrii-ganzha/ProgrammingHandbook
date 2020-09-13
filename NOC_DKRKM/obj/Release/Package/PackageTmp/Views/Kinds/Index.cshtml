@@ -1,0 +1,105 @@
+﻿@model NOC_DKRKM.ViewModels.KindIndexData
+
+@{
+    ViewBag.Title = "Види матеріалів";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Види матеріалів</h2>
+
+<p>
+    @Html.ActionLink("Створити новий", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Вид матеріалу
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Kinds) {
+    @*<tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.KindName)
+            @Html.ActionLink("Створити новий", "Create")
+        </td>
+        <td>
+                
+            <div class="btn-group" role="group" aria-label="...">
+
+                <button type="button" title="Редагувати" onclick="location.href='@Url.Action("Edit", new { id = item.KindId })'" class="btn btn-default">
+                    <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+                </button>
+                <button type="button" title="Видалити" onclick="location.href='@Url.Action("Delete", new { id = item.KindId })'" class="btn btn-default">
+                    <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                </button>
+            </div>
+
+       
+        </td>
+    </tr>*@
+
+    string selectedRow = "";
+    if (item.KindId == ViewBag.KindId)
+    {
+        selectedRow = "success";
+    }
+    <tr class="@selectedRow">
+        <td>
+            @Html.DisplayFor(modelItem => item.KindName)
+        </td>
+        <td>
+            <div class="btn-group" role="group" aria-label="...">
+
+                <button type="button" title="Обрати" onclick="location.href='@Url.Action("Index", new { id = item.KindId })'" aria-label="Left Align" class="btn btn-default">
+                    <span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span>
+                </button>
+                <button type="button" title="Редагувати" onclick="location.href='@Url.Action("Edit", new { id = item.KindId })'" class="btn btn-default">
+                    <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+                </button>
+                <button type="button" title="Видалити" onclick="location.href='@Url.Action("Delete", new { id = item.KindId })'" class="btn btn-default">
+                    <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                </button>
+            </div>
+
+        </td>
+    </tr>
+}
+
+</table>
+@if (Model.Documents != null)
+{
+    <h3>Матеріали обраної теми</h3>
+    @Html.ActionLink("Додати матеріал", "Create", "Documents")
+    <table class="table">
+        <tr>
+            <th>Назва матеріалу</th>
+            <th>Посилання на матеріал</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model.Documents)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td><a href="@item.Fail">Посилання</a></td>
+
+                <td>
+                    <div class="btn-group" role="group" aria-label="...">
+                        <button type="button" title="Редагувати" onclick="location.href='@Url.Action("../Documents/Edit", new { id = item.DocumentID })'" class="btn btn-default">
+                            <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+                        </button>
+                        <button type="button" title="Редагувати" onclick="location.href='@Url.Action("../Documents/Details", new { id = item.DocumentID })'" class="btn btn-default">
+                            <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                        </button>
+                        <button type="button" title="Видалити" onclick="location.href='@Url.Action("../Documents/Delete", new { id = item.DocumentID })'" class="btn btn-default">
+                            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </button>
+
+                    </div>
+
+                </td>
+            </tr>
+        }
+    </table>
+}

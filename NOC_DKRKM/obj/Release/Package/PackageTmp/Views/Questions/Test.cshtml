@@ -1,0 +1,66 @@
+﻿@model IEnumerable<NOC_DKRKM.Models.Question>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Тестування</h2>
+
+<div class="nav-tabs">
+    <script type="text/javascript">
+        function Check(e)
+        {
+            document.getElementById(e).className = "active"
+
+            @*for (i=0; i<document.getElementsByName(e).cuont; i++)
+                if(document.getElementsByName(e)[i].checked)
+                    @ViewBag.answers[e]=do*@
+        }
+    </script>
+
+    <ul class="nav nav-pills">
+        @foreach (var item in Model)
+        {
+            <li id="@item.QuestionID" class="alert-danger" role="presentation"><a href="#ask_@item.QuestionID" data-toggle="tab">Запитання @(ViewBag.i++)</a></li>
+        }
+    </ul>
+    <p hidden="hidden">@(ViewBag.i = 0)</p>
+    <div class="tab-content">
+        @foreach (var item in Model)
+        {
+            <p hidden="hidden">@(ViewBag.i++);</p>
+            <div class="tab-pane" id="ask_@item.QuestionID">
+                <h4>@item.Text</h4>
+                @if (item.Code != null)
+                {
+                <code>
+                    @item.Code;
+                </code>
+                <br />
+                }
+                
+                @if (item.Image != null)
+                {
+                    <br />
+                    @Html.Raw("<img  src=\"data:image/jpeg;base64,"
++ Convert.ToBase64String(item.Image) + "\" />")
+                }
+                @foreach (var ans in item.Answers.ToList())
+                {
+                    if (item.Check == true)
+                    {
+                        @*<input type="checkbox" name="@(ViewBag.i - 1)" value="@ans.AnswerID" onclick="Check(@item.QuestionID)" />@ans.Text<br />*@
+                        <input type="checkbox" name="@ViewBag.i" value="@ans.AnswerID" onclick="(Check(@item.QuestionID))" onchange="$('#EmptyDIV').load('@Url.Action("SaveAnswer")', {answerID: @ans.AnswerID.ToString()})" /> @ans.Text <br />
+                    }
+                    else
+                    {
+                        <input type="radio" name="@ViewBag.i" value="@ans.AnswerID" onclick="Check(@item.QuestionID)" onchange="$('#EmptyDIV').load('@Url.Action("SaveRadioAnswer")', {answerID: @ans.AnswerID.ToString(), questionID: @item.QuestionID})" />@ans.Text<br />
+                        @*<asp:RadioButton id="@(ViewBag.i-1)" value/>*@
+                    }
+                }
+            </div>
+        }
+    </div>
+    @Html.ActionLink("Завершити тестування", "../TestResults/GetResult", new { topicID = Model.First().TopicID })
+</div>
+<div id="EmptyDIV"></div>

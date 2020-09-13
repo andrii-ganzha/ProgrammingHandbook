@@ -1,0 +1,35 @@
+﻿@model NOC_DKRKM.Models.Document
+
+
+@{
+    ViewBag.Title = "Детальна інформація";
+}
+
+<h2>Детальна інформація про матеріал</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Describe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Describe)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Редагувати", "Edit", new { id = Model.DocumentID }) |
+    @Html.ActionLink("Повернутися до списку матеріалів", "Index")
+</p>

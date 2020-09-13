@@ -1,0 +1,86 @@
+﻿@model NOC_DKRKM.ViewModels.GroupsIndexData
+
+@{
+    ViewBag.Title = "Групи";
+}
+
+<h2>Групи</h2>
+
+@if (User.IsInRole("Aдміністратор"))
+{
+    @Html.ActionLink("Додати групу", "Create")
+}
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Name)*@
+            Шифр групи
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Groups)
+{
+    string selectedRow = "";
+    if(item.GroupID == ViewBag.GroupID)
+    {
+        selectedRow = "success";
+    }
+    <tr class="@selectedRow">
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Вибрати", "Index", new { id=item.GroupID})
+            @if (User.IsInRole("Адміністратор"))
+            {
+                @ViewBag.Slash;
+                @Html.ActionLink("Редагувати", "Edit", new { id = item.GroupID }); @ViewBag.Slash;
+                @Html.ActionLink("Видалити", "Delete", new { id=item.GroupID })
+            }
+        </td>
+    </tr>
+}
+
+</table>
+
+@if (Model.GroupsInCource != null)
+{
+<h3>Дисципліни в обраній групі</h3>
+    if (Model.GroupsInCource.Count() < 1)
+    {
+        <p>Дисциліни відсутні!</p>
+    }
+    <table>
+        @foreach (var item in Model.GroupsInCource)
+        {
+            <tr>
+                <td>@item.Cource.Name</td>
+                <td>@Html.ActionLink("Відомість", "Details", new { id = item.GroupID, CourceID = item.CourceID})</td>
+                @*<td>@Html.ActionLink("Детальніше", "../Cources/Edit", new { { GroupID = item.GroupID, CourceId = item.CourceID })</td>*@
+            </tr>
+        }
+        </table>
+}
+
+@if (Model.Students != null)
+{
+    <h3>Студенти обраної групи</h3>
+    if (Model.Students.Count() < 1)
+    {
+        <p>У групі немає студентів!</p>
+    }
+    <table>
+        @foreach (var item in Model.Students)
+        {
+            <tr>
+                <td>
+                    @(item.sname + " " + item.name + " " + item.lname)
+                </td>
+                <td>
+                    @Html.ActionLink("Детальніше", "../Users/Details", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </table>
+}

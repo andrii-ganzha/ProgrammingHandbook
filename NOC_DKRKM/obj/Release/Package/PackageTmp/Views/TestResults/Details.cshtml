@@ -1,0 +1,64 @@
+﻿@model NOC_DKRKM.Models.TestResult
+@{
+    ViewBag.Title = "Результат тесту";
+}
+
+<h2>Результат тесту</h2>
+
+<div>
+    <h4>Тест</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Topic.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Topic.Name)
+        </dd>
+
+        <dt>
+           Студент
+        </dt>
+
+        <dd>
+            @Model.Student.name @Model.Student.lname @Model.Student.sname
+        </dd>
+
+        <dt>
+            Дата, час складання
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+           Кілкість балів
+        </dt>
+
+        <dd>
+            @Model.Mark
+        </dd>
+        
+        <dt>
+            Відповіді
+        </dt>
+
+       <dd>
+           @foreach(var item in Model.Answers)
+           {
+               <h4>@item.Question.Text</h4>
+               @item.Text
+            <h5>@item.value бали</h5>
+           }
+       </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Зберегти", "Save", new { TestID = Model.ID })
+    @Html.ActionLink("Повернутися", "Index", new { id = Model.StudentID })
+</p>
+
+

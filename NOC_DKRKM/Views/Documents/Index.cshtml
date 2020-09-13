@@ -1,0 +1,64 @@
+﻿@model IEnumerable<NOC_DKRKM.Models.Document>
+
+@{
+    ViewBag.Title = "Матеріали";
+    AjaxOptions ajax = new AjaxOptions
+    {
+        UpdateTargetId = "documentsList",
+        Url = Url.Action("GetDocuments")
+    };
+}
+<script src="~/Scripts/jquery-3.1.1.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<h2>Матеріали</h2>
+
+<p>
+    @Html.ActionLink("Створити новий матеріал", "Create") <br />
+</p>
+@using (Ajax.BeginForm(ajax))
+{
+    <div class="row" id="find">
+        <div class="col-sm-3 input-group">
+            <input type="text" name="filter" value="@ViewBag.filter" class="form-control" placeholder="Введіть запит..." />
+            <span class="input-group-btn">
+                <button type="submit" class="btn btn-default">Знайти</button>@*поиск материала по названию, по теме материала и по его типу*@
+            </span>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Topic.Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Fail)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Kind.KindName)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+
+                <tbody id="documentsList">
+                    @Html.Action("GetDocuments")
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+}
+
+<p>
+    @Html.ActionLink("Зберегти дані таблиці у документ", "Save") <br />
+</p>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<NOC_DKRKM.Models.Question>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Тестування</h2>
+<div>
+    <h4>Увага!</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Кількість запитань
+        </dt>
+
+        <dd>
+            @ViewBag.Count
+        </dd>
+
+        <dt>
+            Тривалість
+        </dt>
+
+        <dd>
+           Необмежено
+        </dd>
+
+        <dt>
+            Кількість спроб
+        </dt>
+
+        <dd>
+           Необмежено
+        </dd>
+
+    </dl>
+</div>
+<h5>@Html.ActionLink("Розпочати тестування", "Test", new { TopicID = ViewBag.TopicID }) |@Html.ActionLink("Повернутися до дисциплін", "../Cources")</h5>

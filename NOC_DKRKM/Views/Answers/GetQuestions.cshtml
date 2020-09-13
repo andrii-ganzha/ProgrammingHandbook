@@ -1,0 +1,8 @@
+﻿@model IEnumerable<NOC_DKRKM.Models.Question>
+<select name="QuestionID" class="form-control" id="ask">
+    @foreach (var item in Model)
+    {
+        <option value="@item.QuestionID">@item.Text</option>
+    }
+</select>
+

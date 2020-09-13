@@ -1,0 +1,6 @@
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\document_net\Document .Net Trial (2.5.3.3)\Code samples\CSharp\Advanced features\Unit conversion\bin\Debug\SampleConvert.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\document_net\Document .Net Trial (2.5.3.3)\Code samples\CSharp\Advanced features\Unit conversion\bin\Debug\SampleConvert.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\document_net\Document .Net Trial (2.5.3.3)\Code samples\CSharp\Advanced features\Unit conversion\bin\Debug\SautinSoft.Document.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\document_net\Document .Net Trial (2.5.3.3)\Code samples\CSharp\Advanced features\Unit conversion\obj\Debug\Sample VS 2010.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\document_net\Document .Net Trial (2.5.3.3)\Code samples\CSharp\Advanced features\Unit conversion\obj\Debug\SampleConvert.exe
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\document_net\Document .Net Trial (2.5.3.3)\Code samples\CSharp\Advanced features\Unit conversion\obj\Debug\SampleConvert.pdb

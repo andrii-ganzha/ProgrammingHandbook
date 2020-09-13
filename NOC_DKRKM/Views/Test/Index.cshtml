@@ -1,0 +1,39 @@
+﻿@*@model NOC_DKRKM.Models.Test
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Тестування</h2>
+
+<div class="nav-tabs">
+    @using (Html.BeginForm())
+    {
+        <ul class="nav nav-pills">
+            @foreach(var item in Model.Questions)
+            {
+                <li id="item.QuestionID", class="alert-danger" role="presentation"><a hreff="#ask_@item.QuestionID" data-toggle="tab">Запитання @(ViewBag.i++)</a></li>
+            }
+        </ul>
+        <div class="tab-content">
+            @foreach(var item in Model.Questions)
+            {
+                <div class="tab-pane" id="ask_@item.QuestionID">
+                    @item.Text<br />
+
+                    @foreach (var ans in item.Answers.ToList())
+                    {
+                        if (item.Check == true)
+                        {
+                            <input type="checkbox" name="@(ViewBag.i-1)" value="@ans.AnswerID" onclick="Check(@item.QuestionID)" />@ans.Text<br />
+                        }
+                        else
+                        {
+                            <input type="radio" name="@(ViewBag.i-1)" value="@ans.AnswerID" onclick="Check(@item.QuestionID)" />@ans.Text<br />
+                        }
+                    }
+                </div>
+            }
+        </div>
+    }
+</div>*@

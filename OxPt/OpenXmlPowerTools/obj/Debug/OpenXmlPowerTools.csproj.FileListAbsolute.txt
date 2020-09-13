@@ -1,0 +1,15 @@
+C:\Users\Азм\Documents\Visual Studio 2013\Projects\WebWord\OxPt\OpenXmlPowerTools\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Азм\Documents\Visual Studio 2013\Projects\WebWord\OxPt\OpenXmlPowerTools\bin\Debug\OpenXmlPowerTools.pdb
+C:\Users\Азм\Documents\Visual Studio 2013\Projects\WebWord\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.csprojResolveAssemblyReference.cache
+C:\Users\Азм\Documents\Visual Studio 2013\Projects\WebWord\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.dll
+C:\Users\Азм\Documents\Visual Studio 2013\Projects\WebWord\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.pdb
+C:\Users\Азм\Desktop\Diplom_White2\OxPt\OpenXmlPowerTools\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Азм\Desktop\Diplom_White2\OxPt\OpenXmlPowerTools\bin\Debug\OpenXmlPowerTools.pdb
+C:\Users\Азм\Desktop\Diplom_White2\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.csprojResolveAssemblyReference.cache
+C:\Users\Азм\Desktop\Diplom_White2\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.dll
+C:\Users\Азм\Desktop\Diplom_White2\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\OxPt\OpenXmlPowerTools\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\OxPt\OpenXmlPowerTools\bin\Debug\OpenXmlPowerTools.pdb
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.dll
+C:\Users\Андрей\OneDrive\Документи\Коледж\Диплом\NOC_DKRKM – копія (11) – копія – копія\OxPt\OpenXmlPowerTools\obj\Debug\OpenXmlPowerTools.pdb

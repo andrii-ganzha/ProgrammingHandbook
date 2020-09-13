@@ -1,0 +1,356 @@
+﻿@model NOC_DKRKM.ViewModels.CourseIndexData
+
+@{
+    ViewBag.Title = "Дисципліни";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@if (User.IsInRole("Адміністратор"))
+{
+    @Html.ActionLink("Додати дисципліну", "Create")
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Name)*@
+            Назва
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Courses) {
+    string selectedRow = "";
+    if(item.CourceID == ViewBag.CourseID)
+    {
+        selectedRow = "success";
+    }
+    <tr class="@selectedRow">
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Вибрати", "Index", new { id = item.CourceID }) |
+            @Html.ActionLink("Детальніше", "Details", new { id=item.CourceID })
+            @if (User.IsInRole("Адміністратор"))
+            {
+                @ViewBag.Slash;
+                @Html.ActionLink("Редагувати", "Edit", new { id = item.CourceID }); @ViewBag.Slash;
+                @Html.ActionLink("Видалити", "Delete", new { id = item.CourceID });
+            }
+        </td>
+    </tr>
+}
+
+</table>
+
+@if(Model.Topics !=null)
+{
+    <h3>Теми обраної дисципліни</h3>
+    if (User.IsInRole("Викладач"))
+    {
+        @Html.ActionLink("Додати тему", "Create", "Topics");
+    }
+    if (Model.Topics.Count() == 0)
+    {
+        <h4>Теми відсутні!</h4>
+    }
+    else
+    {
+    <table class="table">
+        <tr>
+            <th>Назва</th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Topics)
+        {
+            string selectedRow = "";
+            if (item.TopicID == ViewBag.TopicID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @if (User.IsInRole("Студент"))
+                    {
+                        @Html.ActionLink("Тестування", "../Questions/BeginTest", new { TopicID = item.TopicID }); @ViewBag.Slash;
+                        @Html.ActionLink("Матеріали", "Index", new { TopicID = item.TopicID });
+                    }
+                    @if((User.IsInRole("Адміністратор")) ||(User.IsInRole("Викладач")))
+                    {
+                    @Html.ActionLink("Вибрати", "Index", new { TopicID = item.TopicID, id = ViewBag.id });
+                        if (User.IsInRole("Викладач"))
+                        {
+                            @ViewBag.Slash;
+                            @Html.ActionLink("Матеріали", "Index", new { TopicID = item.TopicID });@ViewBag.Slash;
+                            @Html.ActionLink("Редагувати", "../Topics/Edit", new { id = item.TopicID });@ViewBag.Slash;
+                            @Html.ActionLink("Видалити", "../Topics/Delete", new { id = item.TopicID });@ViewBag.Slash;
+                        }
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+    }
+
+
+    if (User.IsInRole("Студент"))
+    {
+        if (Model.Documents != null)
+        {
+            <h3>Матеріали обраної теми</h3>
+            if (Model.Documents.Count() == 0)
+            {
+                <h4>Матеріали відсутні!</h4>
+            }
+            else
+            {
+                <table class="table">
+                    <tr>
+                        <th>Назва матеріалу</th>
+                        <th>Посилання на матеріал</th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model.Documents)
+                    {
+                        string selectedRow = "";
+                        if (item.DocumentID == ViewBag.DocumentID)
+                        {
+                            selectedRow = "success";
+                        }
+                        <tr class="@selectedRow">
+                            <td>
+                                @item.Name
+                            </td>
+                            <td>
+                                <a href="@item.Fail">Посилання</a>
+                            </td>
+                            <td>
+                                @Html.ActionLink("Детальніше", "../Document/Details", new { id = item.DocumentID })
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+        }
+    }
+
+
+    if (User.IsInRole("Викладач"))
+    {
+        if (@*ViewBag.Que != null &&*@ Model.Questions != null)
+{
+
+    <h3>Матеріали обраної теми</h3>
+    @Html.ActionLink("Додати матеріал", "Create", "Documents")
+            if (Model.Documents.Count() == 0)
+            {
+                <h4>Матеріали відсутні!</h4>
+            }
+            else
+            {
+                <table class="table">
+                    <tr>
+                        <th>Назва матеріалу</th>
+                        <th>Посилання на матеріал</th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model.Documents)
+                    {
+                        string selectedRow = "";
+                        if (item.DocumentID == ViewBag.DocumentID)
+                        {
+                            selectedRow = "success";
+                        }
+                        <tr class="@selectedRow">
+                            <td>
+                                @item.Name
+                            </td>
+                            <td>
+                                <a href="@item.Fail">Посилання</a>
+                            </td>
+                            <td>
+                                @Html.ActionLink("Редагувати", "../Documents/Edit", new { id = item.DocumentID }) |
+                                @Html.ActionLink("Видалити", "../Documents/Delete", new { id = item.DocumentID }) |
+                                @Html.ActionLink("Детальніше", "../Document/Details", new { id = item.DocumentID })
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+
+
+    <h3>Запитання обраної теми</h3>
+        @Html.ActionLink("Додати запитання", "Create", "Questions")
+            if (Model.Questions.Count() == 0)
+            {
+            <h4>Запитання відсутні!</h4>
+            }
+            else
+            {
+        <table class="table">
+            <tr>
+                <th>Текст запитання</th>
+                <th>Кілька вірних відповідей</th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model.Questions)
+            {
+                string selectedRow = "";
+                if (item.QuestionID == ViewBag.QuestionID)
+                {
+                    selectedRow = "success";
+                }
+                <tr class="@selectedRow">
+                    <td>
+                        @item.Text
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Check)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Вибрати", "Index", new { QuestionID = item.QuestionID, id = ViewBag.id, TopicID = ViewBag.TopicID }) |
+                        @Html.ActionLink("Редагувати", "../Questions/Edit", new { id = item.QuestionID }) |
+                        @Html.ActionLink("Видалити", "../Questions/Delete", new { id = item.TopicID })
+                    </td>
+                </tr>
+            }
+        </table>
+            }
+            if (Model.Answers != null)
+            {
+            <h3>Відповіді обраного запитання</h3>
+            @Html.ActionLink("Додати відповідь", "Create", "Answers")
+                if (Model.Answers.Count() == 0)
+                {
+                <h4>Відповіді відсутні!</h4>
+                }
+                else
+                {
+            <table class="table">
+                <tr>
+                    <th>Текст відповіді</th>
+                    <th>Кількість балів</th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model.Answers)
+                {
+                    string selectedRow = "";
+                    if (item.AnswerID == ViewBag.AnswerID)
+                    {
+                        selectedRow = "success";
+                    }
+                    <tr class="@selectedRow">
+                        <td>
+                            @item.Text
+                        </td>
+                        <td>
+                            @item.value
+                        </td>
+                        <td>
+                            @Html.ActionLink("Редагувати", "../Answers/Edit", new { id = item.AnswerID }) |
+                            @Html.ActionLink("Видалити", "../Answers/Delete", new { id = item.AnswerID })
+                        </td>
+                    </tr>
+                }
+            </table>
+                }
+            }
+        }
+    }
+
+
+
+
+    if (User.IsInRole("Адміністратор"))
+    {
+        if (@*ViewBag.Que != null &&*@ Model.Questions != null)
+{
+
+
+
+
+    <h3>Запитання обраної теми</h3>
+            if (Model.Questions.Count() == 0)
+            {
+                <h4>Запитання відсутні!</h4>
+            }
+            else
+            {
+                <table class="table">
+                    <tr>
+                        <th>Текст запитання</th>
+                        <th>Кілька вірних відповідей</th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model.Questions)
+                    {
+                        string selectedRow = "";
+                        if (item.QuestionID == ViewBag.QuestionID)
+                        {
+                            selectedRow = "success";
+                        }
+                        <tr class="@selectedRow">
+                            <td>
+                                @item.Text
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Check)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Вибрати", "Index", new { QuestionID = item.QuestionID, id = ViewBag.id, TopicID = ViewBag.TopicID })
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+            if (Model.Answers != null)
+            {
+                <h3>Відповіді обраного запитання</h3>
+                if (Model.Answers.Count() == 0)
+                {
+                    <h4>Відповіді відсутні!</h4>
+                }
+                else
+                {
+                    <table class="table">
+                        <tr>
+                            <th>Текст відповіді</th>
+                            <th>Кількість балів</th>
+                        </tr>
+
+                        @foreach (var item in Model.Answers)
+                        {
+                            string selectedRow = "";
+                            if (item.AnswerID == ViewBag.AnswerID)
+                            {
+                                selectedRow = "success";
+                            }
+                            <tr class="@selectedRow">
+                                <td>
+                                    @item.Text
+                                </td>
+                                <td>
+                                    @item.value
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                }
+            }
+        }
+    }
+
+
+
+}

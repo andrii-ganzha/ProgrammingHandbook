@@ -1,0 +1,66 @@
+﻿@model NOC_DKRKM.ViewModels.GroupsResultsData
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+
+
+<table class="table">
+    <tr>
+        <th>
+        </th>
+        @foreach (var item in Model.Topics)
+        {
+            <th>
+                @item.Name
+            </th>
+        }
+    </tr>
+
+    @foreach (var item in Model.Students)
+    {
+        <tr>
+            <td>
+                @item.sname @item.name @item.lname
+            </td>
+                @if (item.TestResults.Count() != 0)
+                {
+            <td>
+                    @item.TestResults.Last().Mark.ToString();
+            </td>
+                }
+                else
+                {
+                    <td></td>
+                }
+
+
+        </tr>
+    }
+
+</table>
+
+
+
+
+    @*<div>
+            <h4>Group</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+            </dl>
+        </div>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.GroupID }) |
+            @Html.ActionLink("Back to List", "Index")
+        </p>*@
