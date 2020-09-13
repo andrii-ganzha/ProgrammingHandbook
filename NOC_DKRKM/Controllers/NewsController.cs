@@ -44,8 +44,8 @@ namespace NOC_DKRKM.Controllers
         public Task SendAsync(IdentityMessage message)
         {
             //настройка логина, пароля отправителя
-            var from = "hanzha.as@gmail.com";
-            var pass = "gg55gh556";
+            var from = "somemail@mail.com";
+            var pass = "******";
 
             //адрес и порт smtp-сервера, с которого мы и будем отправлять письмо
             SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
